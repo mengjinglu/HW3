@@ -1,0 +1,24 @@
+ObJEcT
+charAt:
+O
+b
+J
+E
+c
+T
+length:
+6
+substring:
+ObJEc
+touppercase:
+OBJECT
+tolowercase:
+object
+testing true case:
+true
+testing false case:
+false
+getmyString:
+ObJEcT
+toString:
+ObJEcT
